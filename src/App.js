@@ -5,7 +5,7 @@ import { useState, useEffect } from 'react';
 
 function App() {
   
-  const [a, setA] = useState('adasf');
+  const [a, setA] = useState('asdfsdafsdfdasd');
 
   useEffect(() => {
     axios.get('/api/hello') 
