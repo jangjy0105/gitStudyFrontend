@@ -14,7 +14,7 @@ function App() {
 
   return (
     <div className="App">
-      {a}
+      {a[0].title}
     </div>
   );
 }
